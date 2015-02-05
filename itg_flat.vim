@@ -29,7 +29,7 @@ hi Statement	    guifg=#d1605e    ctermfg=167    gui=none    cterm=none
 hi Special	    	guifg=#e0e0e0    ctermfg=254    gui=none    cterm=none
 hi SpecialKey	    guifg=#9acd32    ctermfg=247    gui=none    cterm=none
 hi StatusLine	    guibg=#c2bfa5    ctermbg=07    	guifg=#000000    ctermfg=231    gui=none    cterm=none
-hi StatusLineNC	    guibg=#c2bfa5    ctermbg=07    	guifg=#7777777    ctermfg=231    gui=none    cterm=none
+hi StatusLineNC	    guibg=#c2bfa4    ctermbg=06    	guifg=#7777777    ctermfg=230    gui=none    cterm=none
 hi String	    	guifg=#ddc96d    ctermfg=185    gui=none    cterm=none
 hi StorageClass	    guifg=#bdb76b    ctermfg=250    gui=none    cterm=none
 hi Title	    	guifg=#e0e0e0    ctermfg=254    gui=none    cterm=none
