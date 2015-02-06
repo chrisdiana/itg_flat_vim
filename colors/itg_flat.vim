@@ -25,6 +25,7 @@ hi Normal	    	guifg=#e4e4e4    ctermfg=254    guibg=#282a31    ctermbg=234    g
 hi NonText	    	guibg=#303030    ctermbg=235    guifg=#d1605e    ctermfg=167    gui=none    cterm=none
 hi Number	    	guifg=#92e4c0    ctermfg=115    gui=none    cterm=none
 hi PreProc	    	guifg=#d1605e    ctermfg=167    gui=none    cterm=none
+hi Search			guibg=#d7d7af 	 ctermbg=187	guifg=#000000	 ctermfg=0
 hi Statement	    guifg=#d1605e    ctermfg=167    gui=none    cterm=none
 hi Special	    	guifg=#e0e0e0    ctermfg=254    gui=none    cterm=none
 hi SpecialKey	    guifg=#9acd32    ctermfg=247    gui=none    cterm=none
