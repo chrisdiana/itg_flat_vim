@@ -18,3 +18,12 @@ syntax on
 colorscheme itg_flat
 ```
 
+---
+
+## Contributing
+
+All forms of contribution are welcome: bug reports, bug fixes, pull requests and simple suggestions. Thanks!
+
+### List of contributors
+
+You can find the list of contributors [here](https://github.com/cdmedia/itg_flat_vim/graphs/contributors).
