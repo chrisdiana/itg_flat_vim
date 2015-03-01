@@ -6,7 +6,7 @@ goes to @itsthatguy (https://github.com/itsthatguy/theme-itg-flat)
 
 ---
 
-![Screenshot](https://github.com/cdmedia/itg_flat_vim/raw/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/cdmedia/itg_flat_vim/master/itg_flat_screenshot.png)
 
 **Manual Installation**
 
