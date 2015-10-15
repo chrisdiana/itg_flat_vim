@@ -41,3 +41,4 @@ hi VertSplit	    guibg=#2D2F36    ctermbg=236    guifg=#585858   ctermfg=240    
 hi Visual	    	guifg=#f0e68c    ctermfg=255    guibg=#6b8e23   ctermbg=242    	gui=none    cterm=none
 hi MatchParen 		guibg=#30323b    ctermbg=236    guifg=#00afff   ctermfg=39
 hi Pmenu			guibg=#30323b	 ctermbg=237	guifg=#e0e0e0	ctermfg=254		gui=none	cterm=none
+hi TabLineFill	    guibg=#2D2F36    ctermbg=235    guifg=#2D2F36   ctermfg=235    	gui=none    cterm=none
