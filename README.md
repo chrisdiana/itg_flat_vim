@@ -18,6 +18,24 @@ syntax on
 colorscheme itg_flat
 ```
 
+**Install with Vundle**
+
+Add to `.vimrc`
+
+```
+syntax on
+Plugin 'cdmedia/itg_flat_vim'
+colorscheme itg_flat
+```
+
+Then run `:PluginInstall`.
+
+---
+
+**Transparent Version**
+A transparent background version is included as well if you choose to have
+a custom background in terminal sessions. Use `itg_flat_transparent` instead.
+
 ---
 
 ## Contributing
